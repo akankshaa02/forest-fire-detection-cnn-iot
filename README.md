@@ -2,7 +2,7 @@
 
 An academic computer vision and embedded system prototype developed in **October 2022** to detect forest fires from image data and trigger remote hardware alerts.
 
-🔗 **[View Original 2022 Notebook & Execution Logs on Kaggle](https://www.kaggle.com/code/akankshabhavsar/forest-fire-detection-using-cnn)**  
+🔗 **[View Notebook & Execution Logs on Kaggle](https://www.kaggle.com/code/akankshabhavsar/forest-fire-detection-using-cnn)**  
 📂 **Dataset:** [Wildfire Detection Image Data (Kaggle)](https://www.kaggle.com/datasets/brsdincer/wildfire-detection-image-data)
 
 ---
